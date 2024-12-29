@@ -2,7 +2,6 @@
 # 🤖 TechSaksham Chatbot
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 Welcome to the **TechSaksham Chatbot** project! This chatbot is built using **Natural Language Processing (NLP)** techniques and the **Streamlit** framework. It uses machine learning to classify intents and generate accurate responses while logging conversations for further analysis.
